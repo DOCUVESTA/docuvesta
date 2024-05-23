@@ -5,8 +5,12 @@
 <br>
 
 This is where my passion for cosmetics and personal care products meets my technical data analytics skills.
-You're a skincare enthusiast or work in the cosmetics industry? Let's connect!
+<br>
+You're a skincare enthusiast, appreciate my projects or work in the cosmetics industry? Let's connect!
 
+<p>
+  <a href="mailto:escano.michele@gmail.com?subject=Hello&body=Hi,%20I%20just%20wanted%20to%20say%20hi!"><img src="https://img.shields.io/badge/SAY-HI-PINK?style=flat&color=%23FFB1B1"></a>
+</p>
 
 ## MY INTERESTS
 Cosmetics & Personal Care Products
