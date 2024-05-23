@@ -4,7 +4,7 @@
 **IN A NUTSHELL**
 <br>
 
-This is where my passion for cosmetics and personal care products meets my technical data analytics skills.
+This is where my passion for cosmetics and personal care products meets my data analytics skills.
 <br>
 You're a skincare enthusiast, appreciate my projects or work in the cosmetics industry? Let's connect!
 
