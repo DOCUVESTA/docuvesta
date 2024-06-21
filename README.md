@@ -29,7 +29,7 @@ Beauty & Personal Care Products
 
 ## TECH 
 - Data visualization: Python, Excel, Power BI, Streamlit
-- Python: Pandas, Numpy, Matplotlib, Seaborn, Plotly, Re
+- Python: Pandas, Numpy, Matplotlib, Seaborn, Plotly, Re, Scrapy, BeautifulSoup, Selectolax
 - Data engineering: Python, Databricks, SAS DIS, SAS EG
 - SQL: Postgresql, Oracle
 - Github and Git
