@@ -21,6 +21,7 @@ Beauty & Personal Care Products
 - Contextual information on the subject of analysis
 - Exploratory data analysis (EDA)
 - ETL
+- Data parsing
 - Data preprocessing
 - Data visualization
 - Data analysis
