@@ -4,7 +4,7 @@
 **IN A NUTSHELL**
 <br>
 
-This is where my passion for beauty and personal care products meets my data analytics skills.
+This is where my passion for skincare and personal care products meets my technical skills.
 <br>
 You're a skincare enthusiast, appreciate my projects or work in the beauty industry? Let's connect!
 
@@ -21,10 +21,12 @@ Beauty & Personal Care Products
 - Contextual information on the subject of analysis
 - Exploratory data analysis (EDA)
 - ETL
-- Data parsing
-- Data preprocessing
-- Data visualization
-- Data analysis
+- Data:
+  - Collection
+  - Parsing
+  - Preprocessing
+  - Visualization
+  - Analysis
 - Technical documentation
 - Reporting
 
