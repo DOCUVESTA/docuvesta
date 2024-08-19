@@ -13,7 +13,7 @@ You're a skincare enthusiast, appreciate my projects or work in the beauty indus
 </p>
 
 ## MY INTERESTS
-Beauty & Personal Care Products
+Beauty and Cosmetics Industry
 <br>
 <img width="719" alt="Screenshot 2024-05-22 at 9 44 13 PM" src="https://github.com/DOCUVESTA/docuvesta/assets/164587076/7d39475a-f431-46f5-bf42-bc642559801e">
 
