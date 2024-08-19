@@ -31,8 +31,10 @@ Beauty & Personal Care Products
 - Reporting
 
 ## TECH 
-- Data visualization: Python, Excel, Power BI, Streamlit
+- Data analysis: Python, Excel, Google Sheets
+- Data visualization: Python, Power BI, Streamlit
 - Python: Pandas, Numpy, Matplotlib, Seaborn, Plotly, Re, Scrapy, BeautifulSoup, Selectolax
 - Data engineering: Python, Databricks, SAS DIS, SAS EG
+- File format: xlsx, csv, json, xml
 - SQL: Postgresql, Oracle
 - Github and Git
