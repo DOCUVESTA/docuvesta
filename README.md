@@ -35,6 +35,6 @@ Beauty and Cosmetics Industry
 - Data visualization: Python, Power BI, Streamlit
 - Python: Pandas, Numpy, Matplotlib, Seaborn, Plotly, Re, Scrapy, BeautifulSoup, Selectolax
 - Data engineering: Python, Databricks, SAS DIS, SAS EG
-- File format: xlsx, csv, json, xml
+- File formats: xlsx, csv, json, xml
 - SQL: Postgresql, Oracle
 - Github and Git
