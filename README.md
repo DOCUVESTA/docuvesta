@@ -27,14 +27,16 @@ Beauty and Cosmetics Industry
   - Preprocessing
   - Visualization
   - Analysis
+  - Engineering
 - Technical documentation
 - Reporting
 
 ## TECH 
 - Data analysis: Python, Excel, Google Sheets
 - Data visualization: Python, Power BI, Streamlit
-- Python: Pandas, Numpy, Matplotlib, Seaborn, Plotly, Re, BeautifulSoup, Selenium, Scrapy, Selectolax
+- Python: Pandas, Nodriver, Numpy, Matplotlib, Seaborn, Plotly, Re, BeautifulSoup, Selenium, Scrapy, Selectolax
 - Data engineering: Python, Databricks, SAS DIS, SAS EG
 - File formats: xlsx, csv, json, xml
 - SQL: Postgresql, Oracle
+- Frontend: HTML, CSS
 - Github and Git
